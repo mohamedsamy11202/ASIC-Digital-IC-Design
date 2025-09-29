@@ -1,4 +1,5 @@
  (Under supervision of Eng. Ali El-Temsah) [ Aug 2025] 
+ 
 • Content: - 
 o Efficient RTL Coding Using Verilog language 
 o Building Advanced Self-checking Verilog Test-bench 
@@ -12,6 +13,7 @@ o Formal Verification Post-Synthesis & Post-DFT & Post-PnR
 o ASIC Flow including (Floorplanning, Pin Placement, Clock Tree Synthesis,       
 Placement, Routing, Timing Closure, Chip Finishing, Sign Off) -      
 Post-Layout Verification (Gate Level Simulation) 
+
 • Final Project: “RTL to GDS Implementation of Low Power Configurable Multi Clock Digital 
 System”  
 o Description: It is responsible of receiving commands through UART receiver to do different 
