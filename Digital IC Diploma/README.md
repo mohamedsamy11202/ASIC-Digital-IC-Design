@@ -10,9 +10,7 @@ o Clock Domain Crossing
 o RTL Synthesis on Design Compiler 
 o Design For Testing (DFT) Insertion 
 o Formal Verification Post-Synthesis & Post-DFT & Post-PnR 
-o ASIC Flow including (Floorplanning, Pin Placement, Clock Tree Synthesis,       
-Placement, Routing, Timing Closure, Chip Finishing, Sign Off) -      
-Post-Layout Verification (Gate Level Simulation) 
+o ASIC Flow including (Floorplanning, Pin Placement, Clock Tree Synthesis,Placement, Routing, Timing Closure, Chip Finishing, Sign Off) - Post-Layout Verification (Gate Level Simulation) 
 
 • Final Project: “RTL to GDS Implementation of Low Power Configurable Multi Clock Digital 
 System”  
